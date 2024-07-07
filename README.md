@@ -12,3 +12,5 @@ Here's a concrete example:
 ![image](https://github.com/sowqa/Discord-Friend-Link/assets/174286355/575db798-c48c-4868-a06c-48a0a74209a8)
 
 My own link to friend me is > https://discord.gg/KpJE5t6r
+
+![image](https://github.com/sowqa/Discord-Friend-Link/assets/174286355/4196ffd0-c4c1-474c-bd1b-fdc545381c68)
